@@ -1,0 +1,1 @@
+0 21 * * * python SEBI_Scrapper.py
